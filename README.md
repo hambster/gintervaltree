@@ -1,0 +1,2 @@
+# gintervaltree
+interval tree implementation
